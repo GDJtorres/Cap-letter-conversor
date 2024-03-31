@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+    margin: 5px;
+    padding: none;
+}
+h1{
+    text-align: center;
+    background-color: rgb(179, 130, 67) ;
+    box-shadow: 1px 1px 5px rgb(179, 130, 67) ; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+#input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+input{
+   min-width: auto;
+   min-height: auto;
+   text-align: left;
+   box-shadow: 2px 1px 5px rgb(179, 130, 67) ;
+
+}
+
+button{
+    box-shadow: 2px 1px 5px rgb(179, 130, 67) ;
+    
+}
+
+#container {
+    min-width: auto;
+    min-height: auto;
+    border: solid 1px rgb(179, 130, 67);
+    text-align: center;
+}
